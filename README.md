@@ -17,10 +17,20 @@ I'm creating a 2-legged walking robot to learn how inverse kinematics works, rob
 - /docs: Notes and calculations
 
 ## Development log 🗒️
--Design--Iteration1
+**----Design: Iteration1----**
 
 <i>Iteration 1 on the robot design</i>
 
 ➡️ [View Iteration 1](https://github.com/ArifNaufalMNazri/Walker/blob/main/designs/iteration1/README.md)
 
-**Synopsis**: I settled on the robot design sketch "Ostrich" inspired by ostrich leg movement
+**Synopsis**: I sketched a few robot designs in my notebook, and settled on the "Ostrich" sketch
+
+
+
+**----Design: Iteration2----**
+
+<i>Iteration 2 on the robot design</i>
+
+➡️[View Iteration 2](https://github.com/ArifNaufalMNazri/Walker/blob/main/designs/iteration2/README.md)
+
+**Synopsis**: I made the 3d CAD design of my design sketch
