@@ -1,7 +1,7 @@
 # Iteration2-CAD design using FreeCAD
 
 ## Sample image 
-<p align="center"><img src="https://github.com/ArifNaufalMNazri/Walker/blob/main/designs/iteration2/CADOstrichImage2.png" length=300 width=300><img src="https://github.com/ArifNaufalMNazri/Walker/blob/main/designs/iteration2/CADOstrichImage.png" length=300 width=300><img src="https://github.com/ArifNaufalMNazri/Walker/blob/main/designs/iteration2/CADOstrichImage3.png" length=300 width=300></p>
+<p align="center"><img src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/designsImages/CADOstrichImage2.png" length=300 width=300><img src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/designsImages/CADOstrichImage.png" length=300 width=300><img src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/designsImages/CADOstrichImage3.png" length=300 width=300></p>
 
 CAD file link: [CADFile](https://github.com/ArifNaufalMNazri/Walker/blob/main/designs/iteration2/ProjectOstrich.step)
 
