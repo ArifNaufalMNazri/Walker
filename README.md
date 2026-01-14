@@ -50,3 +50,11 @@ I'm creating a 2-legged walking robot to learn how inverse kinematics works, rob
 ➡️[View Iteration 2](https://github.com/ArifNaufalMNazri/Walker/blob/main/protoLeg/iteration2/README.md)
 
 **Synopsis**: I conducted the button test with the prototype leg
+
+### **----Prototype Leg: Iteration 3----**
+
+<i>Iteration 3 on the prototype leg</i>
+
+➡️[View Iteration 3](https://github.com/ArifNaufalMNazri/Walker/blob/main/protoLeg/iteration3/README.md)
+
+**Synopsis**: I calculated and programmed the kinematics and built a new stand for leg testing
