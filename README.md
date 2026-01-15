@@ -17,6 +17,8 @@ I'm creating a 2-legged walking robot to learn how inverse kinematics works, rob
 - /docs: Notes and calculations
 
 ## Development log 🗒️
+
+### Design
 ### **----Design: Iteration1----**
 
 <i>Iteration 1 on the robot design</i>
@@ -35,6 +37,8 @@ I'm creating a 2-legged walking robot to learn how inverse kinematics works, rob
 
 **Synopsis**: I made the 3d CAD design of my design sketch
 
+
+### Prototype Leg
 ### **----Prototype Leg: Iteration 1----**
 
 <i>Iteration 1 on the prototype leg</i>
@@ -58,3 +62,11 @@ I'm creating a 2-legged walking robot to learn how inverse kinematics works, rob
 ➡️[View Iteration 3](https://github.com/ArifNaufalMNazri/Walker/blob/main/protoLeg/iteration3/README.md)
 
 **Synopsis**: I calculated and programmed the kinematics and built a new stand for leg testing
+
+### **----Prototype Leg: Iteration 4----**
+
+<i>Iteration 4 on the prototype leg</i>
+
+➡️[View Iteration 4](https://github.com/ArifNaufalMNazri/Walker/blob/main/protoLeg/iteration4/README.md)
+
+**Synopsis**: I created a new stand for the leg and replaced the hip servo
