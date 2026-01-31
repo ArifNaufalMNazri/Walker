@@ -78,3 +78,11 @@ I'm creating a 2-legged walking robot to learn how inverse kinematics works, rob
 ➡️[View Iteration 5](https://github.com/ArifNaufalMNazri/Walker/blob/main/protoLeg/iteration5/README.md)
 
 **Synopsis**: I changed the code to allow the leg to move in the -x axis, added supports to the stand, and created a triangle stepping sequence
+
+### **----Prototype Leg: Iteration 6----**
+
+<i>Iteration 6 on the prototype leg</i>
+
+➡️[View Iteration 6](https://github.com/ArifNaufalMNazri/Walker/blob/main/protoLeg/iteration6/README.md)
+
+**Synopsis**: I integrated and oriented the third servo to stay parallel to the ground as the leg moves, and built the second leg
