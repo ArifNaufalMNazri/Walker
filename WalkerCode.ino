@@ -21,6 +21,7 @@ Servo servo6;
 float l1=5.2;
 float l2=5.2;
 
+//Initial position of servos
 float initialx=0;
 float initialy=-9;
 
@@ -31,9 +32,6 @@ float x2=3;
 float y2=-9;
 
 void setup() {
-  // put your setup code here, to run once:
-
-  Serial.begin(9600);
 
   servo1.attach(ServoPin1);
   servo2.attach(ServoPin2);
@@ -129,8 +127,6 @@ float initialC2=90;
 float delaytime=30;
 
 void loop() {
-  // put your main code here, to run repeatedly
-
     //First coordinate
     float a=finda(x, y, l1, l2);
     float B=findB(x, y, l1, l2);
@@ -145,7 +141,7 @@ void loop() {
     float a3=finda(initialx, initialy, l1, l2);
     float B3=findB(initialx, initialy, l1, l2);
     float C3=findC(initialx, initialy, l1, l2, a3);
-
+    
     while(true){
       bool legCondition=step(initiala, initialB, initialC, a, B, 140, 1);
       if(legCondition){
@@ -192,6 +188,5 @@ void loop() {
     } 
     
     delay(delaytime);
-
-
+  
 }
